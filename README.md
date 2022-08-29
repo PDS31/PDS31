@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/web_dev02" target="blank"><img src="https://img.shields.io/twitter/follow/web_dev02?logo=twitter&style=for-the-badge" alt="web_dev02" /></a> </p>
 
-- 🔭 I’m currently working on **E-COMMERCE Website**
+- 🔭 I’m currently working on **Tic-Tac-Toe application**
 
 - 🌱 I’m currently learning **BACKEND DEVELOPMENT**
 
